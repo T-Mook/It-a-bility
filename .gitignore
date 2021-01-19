@@ -1,5 +1,8 @@
 ## 기타
 **/.venv
+**/__pycache__
+**/.vscode
 
 ## 보안 폴더
-secrets/**
+**/secrets/**
+!**/secrets/__init__.py
